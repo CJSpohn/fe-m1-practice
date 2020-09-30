@@ -1,4 +1,4 @@
-#h2 Forms
+#H2 Forms
 If you're using an input element in a form, what attribute controls the behavior of that input?
 * type = "" determines what type of input element you have
 
@@ -11,7 +11,7 @@ If you're using an input element to send form data to a server, what should the 
 What element is used to group similar form items together?
 * `<fieldset>`
 
-#h2 Boxes and Layout
+#H2 Boxes and Layout
 Describe the differences between border, margin, and padding.
 * Border - separates the edge of one box from another
 * Margin - The gap outside of the Border

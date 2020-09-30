@@ -1,4 +1,4 @@
-#H2 Day 1 exercises
+## Day 1 exercises
 
 On a website, what is the purpose of HTML code?
 * The purpose of html code is to provide structure to a website's elements to be interpreted by the browser and read by the user.

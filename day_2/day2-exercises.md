@@ -1,6 +1,6 @@
-#H2 Day 2 Exercises
+## Day 2 Exercises
 
-#H3 Lists and Links
+### Lists and Links
 There are three main types of lists in HTML: ordered, unordered, and definition. What are their differences?
 * Ordered lists include numbers between elements
 * Unordered lists use bullet points or asterisks
@@ -16,7 +16,7 @@ How do you link to a specific part of the same page?
 * First, add an id tag to a specific header or section
 * Create a link where you want and use `href="#id"` within the link element
 
-#H3 CSS
+### CSS
 What is the purpose of CSS?
 * To create stylistic changes, positioning changes, and generally alter the "html blocks" that make up a webpage
 

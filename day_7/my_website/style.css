@@ -1,0 +1,132 @@
+html {
+  scroll-behavior: smooth;
+}
+
+p {
+  font-size: 18px;
+}
+
+a:link {
+  font-size: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+.navContainter {
+  display: flex;
+  justify-content: center;
+}
+
+.nav {
+  height: 50px;
+  width: 1000px;
+  margin: auto;
+  clear: right;
+  position: fixed;
+  background-color: #af0a0f;
+  font-family: sans-serif;
+}
+
+.links {
+  text-align: center;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+a.inlineLink {
+  font-size: 18px;
+  color: blue;
+  padding-left: 0px;
+  padding-right: 0px;
+  color: red;
+}
+
+a.inlineLink:hover {
+  text-decoration: underline;
+}
+
+.mainContent {
+  margin: auto;
+  text-align: center;
+  width: 750px;
+  padding-left: 15px;
+  padding-top: 50px;
+}
+
+div.pText {
+  float: right;
+  width: 350px;
+  text-align: justify;
+}
+
+div.header {
+  font-family: sans-serif;
+  height: 400px;
+  background-image: url(/images/spotlogo.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.list {
+  display: inline-block;
+  text-align: left;
+}
+
+h1.myName {
+  font-size: 60px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-family: fantasy;
+}
+
+h2.myclimbing {
+  margin-top: 0px;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 50px;
+}
+
+h2, h5 {
+  line-height: 0px;
+}
+
+h4 {
+  margin-bottom: 0px;
+}
+
+h5 {
+  margin-top: 5px;
+}
+
+div.spacer {
+  height: 200px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 26vw);
+  grid-gap: 15px;
+}
+
+.gallery img {
+  display: inline;
+  width: 250px;
+}
+
+.footer {
+  height: 500px
+}
